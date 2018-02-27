@@ -1,2 +1,5 @@
-# CSC440
-Online News Article
+# CSC440 - Online News Popularity
+
+Data Mining Project (Spring 2018)
+- Aeshaan Wahlang
+- Sayudh Roy
