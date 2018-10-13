@@ -1,4 +1,2 @@
-# CSC440
-Online News Popularity Classifier / Regressor
-
+# Online News Popularity Classifier / Regressor
 See info.txt for more information.
